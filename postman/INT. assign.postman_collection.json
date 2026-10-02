@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "f6df8cad-1eb2-4be7-b4bc-f1684eb0bda3",
+		"name": "INT. assign",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "58483960",
+		"_collection_link": "https://arpan-gt-9503148.postman.co/workspace/Arpan-Kumar's-Workspace~b564373e-b6ea-474c-8c54-f105d5035acf/collection/58483960-f6df8cad-1eb2-4be7-b4bc-f1684eb0bda3?action=share&source=collection_link&creator=58483960"
+	},
+	"item": [
+		{
+			"name": "classifyText",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
