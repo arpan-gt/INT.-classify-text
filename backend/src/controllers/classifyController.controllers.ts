@@ -14,7 +14,7 @@ export const classifyController = async (req: Request, res: Response) => {
     const result = await classifyText(text);
 
     return res.status(200).json({
-      message: "Text received",
+      message: "Text received ",
       text,
       classified_data: result,
     });
